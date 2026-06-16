@@ -57,9 +57,10 @@ Hiểu neural network hoạt động
 - Backpropagation (ý tưởng)
 - Activation functions
 - Embedding concept
+- RNN
 
 ## ❌ Không cần
-- CNN / RNN chi tiết
+- CNN chi tiết
 
 ---
 
